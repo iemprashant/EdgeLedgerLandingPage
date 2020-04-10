@@ -158,7 +158,8 @@ p{
     display: flex;
     padding: 1rem;
   }
-  
+  #what .container{
+    text-align: center; }
   #what .items .item {
     flex: 1;
     text-align: center;
